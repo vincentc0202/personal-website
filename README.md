@@ -1,5 +1,8 @@
 # Vincent Cheong's Portfolio Website
 
+## Deployment
+The website is live at: [vincentcheong.me](https://www.vincentcheong.me/)
+
 ## Overview
 This is my personal portfolio website, built to showcase projects, skills, and interests in an interactive and engaging way.  
 It serves as a creative expression beyond a traditional resume, providing insight into both technical expertise and personal interests.
@@ -21,9 +24,6 @@ It serves as a creative expression beyond a traditional resume, providing insigh
 ## Future Improvements
 - Adding more animations to enhance the user experience and give it a more modern feel. 
 - Implementing more interactive elements, such as a movable map, to further enhance engagement.  
-
-## Deployment
-The website is live at: [vincentcheong.me](https://www.vincentcheong.me/)
 
 ---
 
