@@ -6,7 +6,6 @@ It serves as a creative expression beyond a traditional resume, providing insigh
 
 ## Technologies Used
 - **React** – Frontend framework for building dynamic user interfaces  
-- **Next.js** – Framework for server-side rendering and static site generation  
 - **react-three-fiber** – Library for integrating 3D graphics using Three.js  
 - **Tailwind CSS** – Utility-first CSS framework for styling and layout  
 
