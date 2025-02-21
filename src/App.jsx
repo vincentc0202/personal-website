@@ -5,6 +5,7 @@ import Works from "./components/Works"
 import Contact from "./components/Contact"
 import Scene from "./components/Scene"
 import styled from "styled-components"
+import Experience from "./components/Experience"
 
 
 const Container = styled.div`
@@ -26,6 +27,7 @@ function App() {
     <Container>
       <Hero/>
       <About/>
+      <Experience/>
       <Projects/>
       <Works/>
       <Contact/>

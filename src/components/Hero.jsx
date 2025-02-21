@@ -79,7 +79,7 @@ const Desc = styled.p`
 `
 
 const Button = styled.button`
-    background-color: #D17CDE;
+    background-color: #d28add;
     color: white;
     font-weight: 500;
     width: 100px;
@@ -157,7 +157,7 @@ const Hero = () => {
                     <Line src="./img/background/line.png"/>
                     <Subtitle>Student, Engineer, and Learner</Subtitle>
                 </WhatIDo>
-                <Desc>A UCSB student captivated by the intricacies of web design, embedded systems, and machine learning.</Desc>
+                <Desc>A UCSB student captivated by the intricacies of web design, computer architecture, embedded systems, and machine learning.</Desc>
                 <Button onClick={() => window.open("/Vincent_Cheong_Resume.pdf", "_blank")} rel="noopener noreferrer">
                     My Resume
                 </Button>

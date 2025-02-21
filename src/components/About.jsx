@@ -43,11 +43,11 @@ const Img = styled.img`
     @media only screen and (max-width: 768px) {
         width: 300px;
         height: 300px;
-        position: static; /* Change position to static for centering */
-        display: block; /* Ensure image behaves like a block element */
+        position: static; 
+        display: block;
         margin-left: auto; 
         margin-right: auto; 
-        margin-top: 250px; /* Adjust top margin as needed */
+        margin-top: 250px; 
     }
 `
 
@@ -110,9 +110,8 @@ const About = () => {
             <Right>
                 <Title>About Me</Title>
                 <Desc>
-                    <p className="paragraph">I am currently an aspiring third year computer engineer student at UC Santa Barbara intrigued by the creation of interactive and responsive technologies.</p>
-                    <p className="paragraph">I have experience working with Python, C++, Java, JavaScript, HTML, CSS, Git,PyTorch, TensorFlow, SQL, and Quartus. Additionally, I enjoy working on large projects with a team and am always looking for new opportunities to enhance my skill set. </p>
-                    <p className="paragraph"></p>
+                    <p className="paragraph">I am currently an aspiring third year computer engineer student at UC Santa Barbara, passionate about building innovative and interactive technologies. My academic and hands-on experiences have given me a strong foundation in areas like full-stack development and embdded systems. I have worked with a variety of technologies including Python, C++, Java, JavaScript, HTML, CSS, SQL, and Git, with a particular interest in utilizing frameworks like PyTorch and TensorFlow for machine learning applications.</p>
+                    <p className="paragraph">Beyond my technical skills, I enjoy collaborating on complex projects, having worked both independently and as part of teams. My work at UCSB's ArchLab, where I focused on automating control logic for distributed systems, has further honed my problem-solving skills and ability to optimize hardware and software. I am always seeking new challenges to expand my skill set, and I'm enthusiastic about contributing to impactful, real-world projects.</p>
                 </Desc>
             </Right>
         </Container>

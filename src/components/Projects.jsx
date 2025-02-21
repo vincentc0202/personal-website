@@ -23,9 +23,15 @@ const projectsData = [
         title: "Rate My Resume",
         description: "A webapp that incorporates Amazon's Comprehend NLP service for users to upload and critique resumes anonymously.",
         image: "/img/projects/RateMyResume1.png",
-        gitUrl: "https://github.com/https://github.com/jiwa310/RateMyResume"
+        gitUrl: "https://github.com/jiwa310/RateMyResume"
     },
-
+    {
+        id: 4,
+        title: "Embedded Garage Door",
+        description: "An automatic smart garage door powered by an STM32 microcontroller that opens & closes based on user input and temperature.",
+        image: "/img/projects/garage-door.png",
+        gitUrl: "https://github.com/vincentc0202/embedded-garage-door"
+    },
 ]
 
 const Section = styled.div`

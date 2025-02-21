@@ -28,7 +28,7 @@ const MapChart = () => {
       </Geographies>
       {markers.map(({ name, coordinates, markerOffset }) => (
         <Marker key={name} coordinates={coordinates} id={name}>
-          <circle r={15} fill="#E42A1D" stroke="#fff" strokeWidth={1.5} />
+          <circle r={12} fill="#E42A1D" stroke="#fff" strokeWidth={1.5} />
         </Marker>
       ))}
     </ComposableMap>

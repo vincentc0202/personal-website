@@ -108,7 +108,14 @@ const Square = styled.div`
     font-size: 14px;
     font-weight: bold;
     text-align: center;
-    padding: 8px
+    padding: 8px;
+
+    @media only screen and (max-width: 768px) {
+        /* width: 40px;
+        height: 40px;
+        font-size: 10px; */
+        display: none;
+    }
 `
 
 const Right = styled.div`
