@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 const experiences = [
     {
-        year: "Oct 2024 - Present",
+        year: "Oct 2024 - Mar 2025",
         title: "Undergraduate Researcher",
         company: "UCSB ArchLab, Computer Architecture Research",
         description: [
@@ -13,16 +13,16 @@ const experiences = [
             "Developed a bitvector theory tailored for hardware semantics, enabling efficient modeling of netlists and RTL designs, and streamlining analysis for distributed hardware systems."
         ],
     },
-    {
-        year: "Sep 2024 - Present",
-        title: "Learning Assistant",
-        company: "University of California, Santa Barbara",
-        description: [
-            "Assisted students in understanding fundamental computer science concepts, including object oriented programming, and data structures and algorithms.",
-            "Held office hours to provide one-on-one support and clarify complex topics in coursework.",
-            "Collaborated with professors to develop and review course materials, ensuring alignment with learning objectives.",
-        ],
-    },
+    // {
+    //     year: "Sep 2024 - Present",
+    //     title: "Learning Assistant",
+    //     company: "University of California, Santa Barbara",
+    //     description: [
+    //         "Assisted students in understanding fundamental computer science concepts, including object oriented programming, and data structures and algorithms.",
+    //         "Held office hours to provide one-on-one support and clarify complex topics in coursework.",
+    //         "Collaborated with professors to develop and review course materials, ensuring alignment with learning objectives.",
+    //     ],
+    // },
 ];
 
 const Section = styled.div`

@@ -22,7 +22,7 @@ const projectsData = [
         id: 3,
         title: "Rate My Resume",
         description: "A webapp that incorporates Amazon's Comprehend NLP service for users to upload and critique resumes anonymously.",
-        image: "/img/projects/RateMyResume1.png",
+        image: "/img/projects/RateMyResume2.png",
         gitUrl: "https://github.com/jiwa310/RateMyResume"
     },
     {
